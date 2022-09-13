@@ -110,9 +110,6 @@ input[type="checkbox" i] {
     margin-bottom: 0;
 }
 
-
-/* Submit Button */
-
 .form_wrap .submit_btn {
     font-size: 17px;
     border-radius: 3px;
@@ -125,10 +122,6 @@ input[type="checkbox" i] {
     border: 0;
     color: white;
 }
-
-
-/* Button Hover effect */
-
 .form_wrap .submit_btn:hover {
     background: #051c94;
 }
